@@ -1,0 +1,14 @@
+body {
+    background-color:  hsla(329, 80%, 90%, 0.863);
+    text-align: center;
+    font-size: 30px;
+}
+
+video {
+    padding: 100px;
+    height: 680px;;
+    width: auto;
+}
+a {
+    text-decoration: none;
+}

@@ -1,0 +1,34 @@
+body{
+    margin:0;
+    padding: 0;
+    background-color: hsla(329, 80%, 90%, 0.863);
+    text-align: center;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.poem {
+    padding: 50px;
+}
+
+p {
+    padding: 0 300px;
+    line-height: 50px;
+    font-size: 30px;
+}
+
+a h1 {
+    
+    font-size: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+h1 {
+    font-size: 70px;
+}

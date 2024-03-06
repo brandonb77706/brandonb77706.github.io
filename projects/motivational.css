@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: hsla(329, 80%, 90%, 0.863);
+}
+
+h1 {
+    color: red;
+    font-size: 80px;
+}
+header img {
+    height: 400px;
+    width: auto;
+}
+.main img {
+    display: inline-block;
+    height: 400px;
+    width: auto;
+}
+p {
+    padding: 20px 60px;
+    font-size: 30px;
+    line-height: 50px;
+}
+
+h3 {
+    font-size: 50px;
+}
+a{
+    text-decoration: none;
+}
